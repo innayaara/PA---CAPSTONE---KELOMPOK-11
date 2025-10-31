@@ -1,1 +1,3 @@
-# PA---CAPSTONE---KELOMPOK-11
+<p align="center">
+    Selamat Datang di Panduan APLIKASI BANKCYCLE!  
+</p>
